@@ -67,7 +67,7 @@ ChatGPT implementations.
       }
   }
   ```
-  <details>
+  </details>
 
 <!-- ## Another Section
 
