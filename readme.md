@@ -5,7 +5,7 @@
 
 ## Contents
 
-- [ChatGPT](#ChatGPT)
+- [ChatGPT](#chatgpt)
 <!-- - [Another Section](#another-section) -->
 
 
